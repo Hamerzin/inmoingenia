@@ -142,10 +142,7 @@
     }
     .search-form{
         padding: 15px;
-        padding: 15px;
-        width: 60%;
-        margin-left: auto;
-        margin-right: auto;
+        
     }
     }
     .search-form .form-inline .form-group {
@@ -370,6 +367,9 @@
     }
     .search-form{
         padding: 15px;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
     }
     .search-form .form-inline .form-group {
         width: 100%; 
